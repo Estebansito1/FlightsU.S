@@ -21,13 +21,20 @@ Conclusion:
 
 The proposed Airline Management System will streamline the operations of the airline, enhance user experience, and improve overall efficiency. By leveraging modern technologies and best practices, we aim to deliver a high-quality solution that meets the needs of both the airline and its passengers
 
-Weekly updates
+# Weekly updates
 
 week 1
+
 week 2
+
 week 3
+
 week 4
+
 week 5
+
 week 6
+
 week 7
+
 week 8
