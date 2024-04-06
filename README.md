@@ -21,6 +21,14 @@ Conclusion:
 
 The proposed Airline Management System will streamline the operations of the airline, enhance user experience, and improve overall efficiency. By leveraging modern technologies and best practices, we aim to deliver a high-quality solution that meets the needs of both the airline and its passengers
 
+
+<img width="1337" alt="Screen Shot 2024-04-04 at 4 47 04 PM" src="https://github.com/Estebansito1/FlightsU.S/assets/164387242/3e7144c3-4edb-4334-8c65-567437516e18">
+
+
+
+<img width="458" alt="Screen Shot 2024-04-05 at 5 12 15 PM" src="https://github.com/Estebansito1/FlightsU.S/assets/164387242/35efd9ac-9571-4c07-a4af-8baed3119695">
+
+
 # Weekly updates
 
 week 1
