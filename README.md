@@ -1,62 +1,54 @@
-# TravelWithUs
-Our project aims to develop an Airline Management System using Java and Eclipse. This system will offer a comprehensive solution for managing various aspects of an airline's operations, including flight destination, passenger information handling, transactions, baggage, boarding passes, and additional passenger options. The system will provide a user friendly interface for both administrators and users, ensuring a smooth and efficient operations for the airline.
+# Cheap Air Travel Application
 
-Objectives:
+## Introduction: 
+Our project aims to develop an Airline Management System using Java and Eclipse. This system will offer a comprehensive solution for managing various aspects of an airline's operations, including flight destination, passenger information handling, transactions, baggage,  boarding passes, and additional passenger options. The system will provide a user friendly  interface for both administrators and users, ensuring a smooth and efficient operations for the airline.
+### Objectives:
+•	Develop a robust and user-friendly interface for managing airline operations.  
+•	Design a GUI for flight scheduling, and passenger handling.  
+•	Ensure data integrity and security by implementing proper authentication and authorization mechanisms.  
+•	Provide booking confirmations and other relevant information at time of booking.  
+•	Optimize system performance to handle a large volume of transactions efficiently.  
+•	Facilitate easy integration with other systems such as payments, option selections, and meal selections.  
 
-• Develop a robust and user-friendly interface for managing airline operations.
-• Design a GUI for flight scheduling, and passenger handling.
-• Ensure data integrity and security by implementing proper authentication and authorization mechanisms.
-• Provide booking confirmations and other relevant information at time of booking.
-• Optimize system performance to handle a large volume of transactions efficiently.
-• Facilitate easy integration with other systems such as payments, option selections, and meal selections.
+### Features: 
+•	Booking Management: Enables users to search for flights, book tickets, and manage their bookings.    
+•	Passenger Handling: Stores passenger information securely and manages check-in processes.  
+•	Notifications: Sends automated notifications to users regarding booking confirmations, flight delays, and other relevant updates.  
+•	Integration: Supports integration with external systems for payment processing, flight tracking, and other services.  
 
-Features:
-
-• Booking Management: Enables users to search for flights, book tickets, and manage their bookings.
-• Passenger Handling: Stores passenger information securely and manages check-in processes.
-• Notifications: Sends automated notifications to users regarding booking confirmations, flight delays, and other relevant updates.
-• Integration: Supports integration with external systems for payment processing, flight tracking, and other services.
-
-Conclusion:
-
+## Conclusion: 
 The proposed Airline Management System will streamline the operations of the airline, enhance user experience, and improve overall efficiency. By leveraging modern technologies and best practices, we aim to deliver a high-quality solution that meets the needs of both the airline and its passengers
 
 
-<img width="586" alt="Screen Shot 2024-04-05 at 5 12 05 PM" src="https://github.com/Estebansito1/FlightsU.S/assets/164387242/93300bd6-f99f-4c6d-b391-d6b23a9489fe">
+
+![TravelWithUs ULM Diagram](https://github.com/jordankelley123/Cheap-Air-Travel-Application/assets/142934283/7fd40a5c-b8c8-4575-826e-895b426afa7b)
 
 
-<img width="458" alt="Screen Shot 2024-04-05 at 5 12 15 PM" src="https://github.com/Estebansito1/FlightsU.S/assets/164387242/35efd9ac-9571-4c07-a4af-8baed3119695">
 
 
-# Weekly updates
 
-week 1
+## Weekly Updates 
 
-• Created the Application View (Primary GUI space)
-
-• Created the differt page views as seperate class (Utilizing CardLayout to switch between views)
-
-• Completed routes,Traveler, Payment, MealOptions, Baggage backend code
-
-• Completed CRC cards and ULM diagrams
-
-• GUI templates created in PDF
-
-• Project proposal finished
-
-• Project Manager attatched on GITHUB projects
+### Week 1: 
+•	Created the Application View (Primary GUI space)     
+•	Created the differt page views as seperate class (Utilizing CardLayout to switch between views)    
+•	Completed routes,Traveler, Payment, MealOptions, Baggage backend code   
+•	Completed CRC cards and ULM diagrams   
+•	GUI templates created in PDF    
+•	Project proposal finished   
+•	Project Manager attatched on GITHUB projects     
 
 
-week 2
+### Week 2: 
 
-week 3
+### Week 3: 
 
-week 4
+### Week 4: 
 
-week 5
+### Week 5: 
 
-week 6
+### Week 6: 
 
-week 7
+### Week 7: 
 
-week 8
+### Week 8: 
